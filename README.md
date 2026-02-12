@@ -100,7 +100,7 @@ GROUP BY 1, 2, 4;
 
 ## 📊 4. Data Visualization & Segmentation
 
-We don't export "everything" to Excel—we export **answers**. Below is the visualization plan for the final dashboard:
+ Below is the visualization plan for the final dashboard:
 
 | Dashboard Component | Data Source | The Strategic "Why" |
 | --- | --- | --- |
