@@ -3,7 +3,7 @@
 
 **A Data Engineering & Strategic Analytics Framework**
 
-> **The Mission:** Transforming 1,900+ rows of raw, unstructured donation data into a high-performance executive dashboard to drive donor retention and campaign ROI.
+> **The Mission:** Transforming 1,900+ rows of raw, unstructured donation data into an executive dashboard to drive donor retention and campaign ROI.
 
 ---
 
